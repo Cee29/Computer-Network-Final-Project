@@ -11,4 +11,4 @@ Utilized Cisco Packet Tracer.
 
 Project steps and configurations are fully documented in the report. Packet Tracer file of the final configuration and scenario is also attached.
 
-This course was part of my studies in the Cybersecurity Professional Bootcamp at the Univerdsity Of Central Florida.
+This course was part of my studies in the Cybersecurity Professional Certificate Program at the Univerdsity Of Central Florida.
